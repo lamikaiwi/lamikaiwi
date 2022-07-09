@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+**This is bold**
+__Also bold__
+
+*This is italic*
+_Also italic_
+
+~~This is strikethrough~~
+
+~~*strikethrough and italic*~~
+
 <!--
 **lamikaiwi/lamikaiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
